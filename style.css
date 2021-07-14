@@ -1,0 +1,54 @@
+
+.title h1{ 
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    text-shadow:7px 4px 5px rgb(213, 228, 5);
+} 
+.navegacion ul li a{
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+.navegacion ul li a:hover{
+  background:rgb(0, 0, 0);   
+}
+
+img{ 
+    border-radius: 30px;
+    width: 40%;   
+} 
+#elementos p{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+} 
+#elementos h2{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+    text-shadow:7px 4px 5px rgb(230, 215, 6);
+} 
+#elementos h3{
+font-family:'Times New Roman', Times, serif;
+color:rgb(0, 0, 0);
+font-size: 25px;    
+} 
+.gif{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: 25px;    
+ } 
+ #capitulo h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+    text-shadow:7px 4px 5px rgb(229, 233, 14);
+} 
+#capitulo h3{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: 25px;    
+    } 
+
